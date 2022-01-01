@@ -27,11 +27,11 @@ Location: Nizhny Novgorod, Russia
 
 ## Experience 
 ## Education
-* University: 
+* University: Nizhny Novgorod State Technical University
 * Cources: 
     * CS50 
-    * RSSchool «JavaScript/Front-end. Stage 0»
-    
+    * RSSchool «JavaScript/Front-end. Stage 0» (in progress)
+
 ## Languages:
 * English - B1
 * Russian - Native 
