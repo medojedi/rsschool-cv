@@ -10,7 +10,8 @@ Location: Nizhny Novgorod, Russia
 
 ## About Myself:
 
-...
+Hey! My name is Rina. I am 23 years old. I am a student at NSTU. At the moment I work in technical support and study at RSSchool.
+In the future I plan to devote myself to programming.
 
 ## Skills and Proficiency:
 * C
