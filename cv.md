@@ -31,6 +31,7 @@ Location: Nizhny Novgorod, Russia
 * Cources: 
     * CS50 
     * RSSchool «JavaScript/Front-end. Stage 0»
+    
 ## Languages:
 * English - B1
 * Russian - Native 
